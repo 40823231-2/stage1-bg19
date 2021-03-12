@@ -1,0 +1,1 @@
+var tipuesearch = {"pages": [{'title': 'About', 'text': '小組倉儲: https://github.com/40823219/stage1-bg19 \n 小組成員:40823219 、40823231 \n', 'tags': '', 'url': 'About.html'}, {'title': '小組討論', 'text': '', 'tags': '', 'url': '小組討論.html'}, {'title': 'W1討論', 'text': '', 'tags': '', 'url': 'W1討論.html'}]};
