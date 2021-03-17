@@ -41,10 +41,8 @@
 <v t="leo.20210317234241.1"><vh>第一次模擬測試</vh></v>
 <v t="leo.20210317234242.1"><vh>第二次模擬測試</vh></v>
 </v>
-<v t="leo.20210317233737.1"><vh>主頁</vh></v>
 <v t="leo.20200818171215.1"><vh>心得</vh></v>
 </v>
-<v t="leo.20210317214715.1"><vh>w1</vh></v>
 </v>
 </v>
 </v>
@@ -211,11 +209,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20210317214715.1">&lt;section&gt;
-   &lt;h2&gt;製作主題討論&lt;/h2&gt; 
-   &lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1297-sNIt08"&gt;&lt;/iframe&gt;
-&lt;/section&gt;
-</t>
 <t tx="leo.20210317215543.1">&lt;!-- Example of nested vertical slides --&gt;
 &lt;section&gt;
     @others
@@ -250,9 +243,6 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317233338.1">&lt;section&gt;
    &lt;h2&gt;w2 繪製第一組圖&lt;/h2&gt; 
-&lt;/section&gt;</t>
-<t tx="leo.20210317233737.1">&lt;section&gt;
-   &lt;h1&gt;每週進度&lt;/h1&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234124.1">&lt;section&gt;
    &lt;h2&gt;w3更改零件尺寸、組合零件圖 &lt;/h2&gt; 
