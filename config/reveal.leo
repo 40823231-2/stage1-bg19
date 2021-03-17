@@ -19,9 +19,20 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
-<v t="leo.20200818171138.1"><vh>每周進度</vh>
-<v t="leo.20210317233737.1"><vh>主頁</vh></v>
-<v t="leo.20210317214715.1"><vh>w1</vh></v>
+<v t="leo.20210318003118.1"><vh>newHeadline</vh></v>
+<v t="leo.20200818171138.1"><vh>每周進度</vh></v>
+<v t="leo.20210318003017.1"><vh>w1</vh></v>
+<v t="leo.20210317215544.1"><vh>w4</vh>
+<v t="leo.20210317234219.1"><vh>主頁</vh></v>
+<v t="leo.20210317234241.1"><vh>第一次模擬測試</vh></v>
+<v t="leo.20210317234242.1"><vh>第二次模擬測試</vh></v>
+</v>
+<v t="leo.20210317215545.1"><vh>w3</vh>
+<v t="leo.20210317234124.1"><vh>主頁</vh></v>
+<v t="leo.20210317234212.1"><vh>車身</vh></v>
+<v t="leo.20210317234134.1"><vh>彈跳板</vh></v>
+<v t="leo.20210318000341.1"><vh>第二次組合圖</vh></v>
+</v>
 <v t="leo.20210317215543.1"><vh>w2</vh>
 <v t="leo.20210317233338.1"><vh>主頁</vh></v>
 <v t="leo.20210317224907.1"><vh>車身主體</vh></v>
@@ -30,20 +41,10 @@
 <v t="leo.20210317232125.1"><vh>傳動軸</vh></v>
 <v t="leo.20210318000130.1"><vh>第一次組合</vh></v>
 </v>
-<v t="leo.20210317215545.1"><vh>w3</vh>
-<v t="leo.20210317234124.1"><vh>主頁</vh></v>
-<v t="leo.20210317234212.1"><vh>車身</vh></v>
-<v t="leo.20210317234134.1"><vh>彈跳板</vh></v>
-<v t="leo.20210318000341.1"><vh>第二次組合圖</vh></v>
-</v>
-<v t="leo.20210317215544.1"><vh>w4</vh>
-<v t="leo.20210317234219.1"><vh>主頁</vh></v>
-<v t="leo.20210317234241.1"><vh>第一次模擬測試</vh></v>
-<v t="leo.20210317234242.1"><vh>第二次模擬測試</vh></v>
-</v>
-</v>
+<v t="leo.20210317233737.1"><vh>主頁</vh></v>
 <v t="leo.20200818171215.1"><vh>心得</vh></v>
 </v>
+<v t="leo.20210317214715.1"><vh>w1</vh></v>
 </v>
 </v>
 </v>
@@ -289,5 +290,10 @@ vertical: body pane on the botton</t>
    &lt;image src="FpgI0qw.png"width="600"hight="300"&gt;
    
 &lt;/section&gt;</t>
+<t tx="leo.20210318003017.1">&lt;section&gt;
+   &lt;h2&gt;製作主題討論&lt;/h2&gt; 
+   &lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1297-sNIt08"&gt;&lt;/iframe&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318003118.1"></t>
 </tnodes>
 </leo_file>
