@@ -612,7 +612,7 @@ console.log( '"customevent" has fired' );
 &lt;/section&gt;</t>
 <t tx="leo.20210317224911.1">&lt;section&gt;
    &lt;h2&gt;彈跳板&lt;/h2&gt; 
-   &lt;image src="lijRPC1.png"width="600"hight="300"&gt;
+   &lt;image src="lljRPC1.png"width="600"hight="300"&gt;
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317224912.1">&lt;section&gt;
