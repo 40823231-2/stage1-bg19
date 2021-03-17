@@ -275,8 +275,8 @@ vertical: body pane on the botton</t>
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317234242.1">&lt;section&gt;
-   &lt;h2&gt;車身主體&lt;/h2&gt; 
-   &lt;image src="圖4.PNG"width="600"hight="300"&gt;
+   &lt;h2&gt;第二次模擬&lt;/h2&gt; 
+   
    
 &lt;/section&gt;</t>
 <t tx="leo.20210318000130.1">&lt;section&gt;
