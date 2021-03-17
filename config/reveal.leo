@@ -19,7 +19,6 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
-<v t="leo.20210318003118.1"><vh>newHeadline</vh></v>
 <v t="leo.20200818171138.1"><vh>每周進度</vh></v>
 <v t="leo.20210318003017.1"><vh>w1</vh></v>
 <v t="leo.20210317215543.1"><vh>w2</vh>
@@ -41,6 +40,7 @@
 <v t="leo.20210317234241.1"><vh>第一次模擬測試</vh></v>
 <v t="leo.20210317234242.1"><vh>第二次模擬測試</vh></v>
 </v>
+<v t="leo.20210318010242.1"><vh>PDF</vh></v>
 <v t="leo.20200818171215.1"><vh>心得</vh></v>
 </v>
 </v>
@@ -261,7 +261,8 @@ vertical: body pane on the botton</t>
    &lt;h2&gt;w4 使用coppeliasim 進行模擬測試&lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234241.1">&lt;section&gt;
-   &lt;h2&gt;第一次模擬測試&lt;/h2&gt; 
+   &lt;h2&gt;第一次模擬測試&lt;/h2&gt;
+   &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/yUSpoz-1KD4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt; 
   
    
 &lt;/section&gt;</t>
@@ -284,6 +285,12 @@ vertical: body pane on the botton</t>
    &lt;h2&gt;製作主題討論&lt;/h2&gt; 
    &lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1297-sNIt08"&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
-<t tx="leo.20210318003118.1"></t>
+<t tx="leo.20210318010242.1">&lt;section&gt;
+     &lt;h2&gt;PDF報告&lt;/h2&gt;
+ &lt;iframe data-src="協同產品產品設計實習.pptx"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+
+&lt;isection&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
