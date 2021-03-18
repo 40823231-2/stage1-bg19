@@ -189,7 +189,6 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-             &lt;section  data-background="images.jpg"&gt;
      &lt;h2&gt;協同產品設計實習&lt;/h2&gt;
     &lt;/a&gt;
     &lt;h3&gt;stage1-bg19&lt;/h3&gt;
@@ -263,6 +262,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317234242.1">&lt;section&gt;
    &lt;h2&gt;第二次模擬&lt;/h2&gt; 
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0yxY1WMC5BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
    
    
 &lt;/section&gt;</t>
@@ -288,14 +288,13 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;
 </t>
 <t tx="leo.20210318170940.1">&lt;section&gt;
-   &lt;section  data-background="12.jpg"&gt;
+
    &lt;h2&gt;格鬥機器人&lt;/h2&gt; 
    &lt;image src="10.PNG"width="600"hight="300"&gt;
 
   &lt;h4&gt;動機:看到Battlebots比賽之後，非常有興趣便想做一台屬於自己的機器人&lt;/h4&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318182139.1">&lt;section&gt;
-&lt;section  data-background="12.jpg"&gt;
    &lt;h2&gt;機構原理&lt;/h2&gt; 
   &lt;h4&gt;彈射機器人，他的問題是攻擊破壞性低，很難直接將對手擊殺，只能讓對手憑重力下來把自己摔壞或把對手丟進OUT區。彈射主要攻擊方式壓縮氣體沖入汽缸，汽缸快速反應，彈射板才能彈起來&lt;/h4&gt;
 &lt;/section&gt;</t>
