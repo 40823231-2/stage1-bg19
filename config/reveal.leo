@@ -19,6 +19,8 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
+<v t="leo.20210318170940.1"><vh>主題</vh></v>
+<v t="leo.20210318182139.1"><vh>動機</vh></v>
 <v t="leo.20210318003017.1"><vh>w1</vh></v>
 <v t="leo.20210317215543.1"><vh>w2</vh>
 <v t="leo.20210317233338.1"><vh>主頁</vh></v>
@@ -32,6 +34,7 @@
 <v t="leo.20210317234124.1"><vh>主頁</vh></v>
 <v t="leo.20210317234212.1"><vh>車身</vh></v>
 <v t="leo.20210317234134.1"><vh>彈跳板</vh></v>
+<v t="leo.20210318222848.1"><vh>氣瓶</vh></v>
 <v t="leo.20210318000341.1"><vh>第二次組合圖</vh></v>
 </v>
 <v t="leo.20210317215544.1"><vh>w4</vh>
@@ -41,6 +44,7 @@
 </v>
 <v t="leo.20210318010242.1"><vh>PDF</vh></v>
 <v t="leo.20200818171215.1"><vh>心得</vh></v>
+<v t="leo.20210318204237.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -174,7 +178,7 @@ vertical: body pane on the botton</t>
 
     &lt;link rel="stylesheet" href="dist/reset.css"&gt;
     &lt;link rel="stylesheet" href="dist/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="dist/theme/black.css" id="theme"&gt;
+    &lt;link rel="stylesheet" href="dist/theme/beige.css" id="theme"&gt;
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
@@ -187,13 +191,13 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-     &lt;h2&gt;cd2021 stage1-bg19分組報告&lt;/h2&gt;
-     &lt;p&gt;
-40823219 40823231
+     &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;stage1-bg19&lt;/h3&gt;
+    &lt;p&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823219.github.io/cd2021/content/index.html"&gt;40823219&lt;/a&gt; and &lt;a href="https://40823231-2.github.io/cd2021/content/index.htmls"&gt;40823231&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
      &lt;p&gt;在剛開始分組時，我們遇到了很多問題，而且必須在短時間內將成品模擬出來，透過多次討論、從外型尺寸、零件擺放的位置以及如何組裝零件，很多都要透過討論，才能將問題解決，由此可知分工對團隊的重要性，這次兩人分組所做的成品沒有到很完整，希望四人分組時能做得更好
@@ -234,10 +238,10 @@ vertical: body pane on the botton</t>
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317233338.1">&lt;section&gt;
-   &lt;h2&gt;w2 繪製第一組圖&lt;/h2&gt; 
+   &lt;h2&gt;W2 繪製第一組圖&lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234124.1">&lt;section&gt;
-   &lt;h2&gt;w3更改零件尺寸、組合零件圖 &lt;/h2&gt; 
+   &lt;h2&gt;W3更改零件尺寸、組合零件圖 &lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234134.1">&lt;section&gt;
    &lt;h2&gt;彈跳板(完成版)&lt;/h2&gt; 
@@ -250,7 +254,7 @@ vertical: body pane on the botton</t>
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317234219.1">&lt;section&gt;
-   &lt;h2&gt;w4 使用coppeliasim 進行模擬測試&lt;/h2&gt; 
+   &lt;h2&gt;W4 使用coppeliasim 進行模擬測試&lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234241.1">&lt;section&gt;
    &lt;h2&gt;第一次模擬測試&lt;/h2&gt;
@@ -260,6 +264,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210317234242.1">&lt;section&gt;
    &lt;h2&gt;第二次模擬&lt;/h2&gt; 
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0yxY1WMC5BY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
    
    
 &lt;/section&gt;</t>
@@ -278,11 +283,35 @@ vertical: body pane on the botton</t>
    &lt;iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/1297-sNIt08"&gt;&lt;/iframe&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20210318010242.1">&lt;section&gt;
+<<<<<<< HEAD
      &lt;h2&gt;PDF報告更&lt;/h2&gt;
  &lt;iframe data-src="協同產品產品設計實習.pptx"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+=======
+     &lt;h2&gt;PDF報告&lt;/h2&gt;
+ &lt;iframe data-src="協同產品產品設計實習.pdf"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+>>>>>>> d2ad9590b585ca22d6337edb441bcbabeba417c8
 
 &lt;isection&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318170940.1">&lt;section&gt;
+
+   &lt;h2&gt;格鬥機器人&lt;/h2&gt; 
+   &lt;image src="10.PNG"width="600"hight="300"&gt;
+
+  &lt;h4&gt;動機:看到Battlebots比賽之後，非常有興趣便想做一台屬於自己的機器人&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318182139.1">&lt;section&gt;
+   &lt;h2&gt;機構原理&lt;/h2&gt; 
+  &lt;h4&gt;彈射機器人，他的問題是攻擊破壞性低，很難直接將對手擊殺，只能讓對手憑重力下來把自己摔壞或把對手丟進OUT區。彈射主要攻擊方式壓縮氣體沖入汽缸，汽缸快速反應，彈射板才能彈起來&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318204237.1">&lt;section&gt;
+   &lt;h1&gt;謝謝大家&lt;/h1&gt; 
+&lt;/section&gt;</t>
+<t tx="leo.20210318222848.1">&lt;section&gt;
+   &lt;h2&gt;壓縮氣瓶&lt;/h2&gt; 
+   &lt;image src="23.PNG"width="600"hight="300"&gt;
+   
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
