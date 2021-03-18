@@ -188,6 +188,7 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
+             &lt;section data-transition="slide" data-background="11.jpg" data-background-transition="convex"&gt;
      &lt;h2&gt;協同產品設計實習&lt;/h2&gt;
     &lt;/a&gt;
     &lt;h3&gt;stage1-bg19&lt;/h3&gt;
@@ -287,7 +288,9 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20210318170940.1">&lt;section&gt;
    &lt;h2&gt;格鬥機器人&lt;/h2&gt; 
-  &lt;h4&gt;動機:看到Battlebots比賽之後，非常有興趣便想做一台屬於自己&lt;/h4&gt;
+   &lt;image src="10.PNG"width="600"hight="300"&gt;
+
+  &lt;h4&gt;動機:看到Battlebots比賽之後，非常有興趣便想做一台屬於自己的機器人&lt;/h4&gt;
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
