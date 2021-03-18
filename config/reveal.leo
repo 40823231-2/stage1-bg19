@@ -187,13 +187,13 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-     &lt;h2&gt;cd2021 stage1-bg19分組報告&lt;/h2&gt;
-     &lt;p&gt;
-40823219 40823231
+     &lt;h2&gt;協&lt;/h2&gt;
+    &lt;/a&gt;
+    &lt;h3&gt;stage1-bg19&lt;/h3&gt;
+    &lt;p&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823219.github.io/cd2021/content/index.html"&gt;40823219&lt;/a&gt; and &lt;a href="https://40823231-2.github.io/cd2021/content/index.htmls"&gt;40823219&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
-&lt;/section&gt;
-
-</t>
+&lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
 &lt;h2&gt;心得&lt;/h2&gt;
      &lt;p&gt;在剛開始分組時，我們遇到了很多問題，而且必須在短時間內將成品模擬出來，透過多次討論、從外型尺寸、零件擺放的位置以及如何組裝零件，很多都要透過討論，才能將問題解決，由此可知分工對團隊的重要性，這次兩人分組所做的成品沒有到很完整，希望四人分組時能做得更好
@@ -279,7 +279,7 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210318010242.1">&lt;section&gt;
      &lt;h2&gt;PDF報告&lt;/h2&gt;
- &lt;iframe data-src="協同產品產品設計實習.pptx"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
+ &lt;iframe data-src="協同產品產品設計實習.pdf"width="800" height="600" frameborder="0"marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt;
 
 &lt;isection&gt;
 &lt;/section&gt;
