@@ -43,6 +43,7 @@
 </v>
 <v t="leo.20210318010242.1"><vh>PDF</vh></v>
 <v t="leo.20200818171215.1"><vh>心得</vh></v>
+<v t="leo.20210318204237.1"><vh>newHeadline</vh></v>
 </v>
 </v>
 </v>
@@ -58,7 +59,7 @@
 <t tx="leo.20180902120538.2">QTreeWidget {
     /* These apply to the selected item, but not to editing items.*/
     background-color: #ffffec; /* Leo's traditional tree color */
-    selection-color: black; /* was white */
+    selection-color: beige; /* was white */
     selection-background-color: lightgrey;
     /* font-family: SansSerif; */
     /*font-family: DejaVu Sans Mono;*/
@@ -297,6 +298,9 @@ vertical: body pane on the botton</t>
 <t tx="leo.20210318182139.1">&lt;section&gt;
    &lt;h2&gt;機構原理&lt;/h2&gt; 
   &lt;h4&gt;彈射機器人，他的問題是攻擊破壞性低，很難直接將對手擊殺，只能讓對手憑重力下來把自己摔壞或把對手丟進OUT區。彈射主要攻擊方式壓縮氣體沖入汽缸，汽缸快速反應，彈射板才能彈起來&lt;/h4&gt;
+&lt;/section&gt;</t>
+<t tx="leo.20210318204237.1">&lt;section&gt;
+   &lt;h1&gt;謝謝大家&lt;/h1&gt; 
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
