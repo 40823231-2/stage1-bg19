@@ -189,7 +189,13 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-     &lt;h2&gt;協同產品設計實習&lt;/h2&gt;
+
+        &lt;section  data-background="12.jpg"&gt;
+        &lt;div style="
+                background-color: rgba(0, 0, 0, 0.7);
+                color: #fff;
+                padding: 20px;
+     &lt;h1&gt;協同產品設計實習&lt;/h1&gt;
     &lt;/a&gt;
     &lt;h3&gt;stage1-bg19&lt;/h3&gt;
     &lt;p&gt;
