@@ -19,7 +19,6 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
-<v t="leo.20200818171138.1"><vh>每周進度</vh></v>
 <v t="leo.20210318003017.1"><vh>w1</vh></v>
 <v t="leo.20210317215543.1"><vh>w2</vh>
 <v t="leo.20210317233338.1"><vh>主頁</vh></v>
@@ -193,13 +192,6 @@ vertical: body pane on the botton</t>
 40823219 40823231
     &lt;/p&gt;
 &lt;/section&gt;
-
-</t>
-<t tx="leo.20200818171138.1">&lt;!-- Example of nested vertical slides --&gt;
-&lt;section&gt;
-    @others
-&lt;/section&gt;
-
 
 </t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
