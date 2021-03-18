@@ -178,7 +178,7 @@ vertical: body pane on the botton</t>
 
     &lt;link rel="stylesheet" href="dist/reset.css"&gt;
     &lt;link rel="stylesheet" href="dist/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="dist/theme/beige.css" id="theme"&gt;
+    &lt;link rel="stylesheet" href="dist/theme/sky.css" id="theme"&gt;
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
@@ -195,7 +195,7 @@ vertical: body pane on the botton</t>
     &lt;/a&gt;
     &lt;h3&gt;stage1-bg19&lt;/h3&gt;
     &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="https://40823219.github.io/cd2021/content/index.html"&gt;40823219&lt;/a&gt; and &lt;a href="https://40823231-2.github.io/cd2021/content/index.htmls"&gt;40823219&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;Created by &lt;a href="https://40823219.github.io/cd2021/content/index.html"&gt;40823219&lt;/a&gt; and &lt;a href="https://40823231-2.github.io/cd2021/content/index.htmls"&gt;40823231&lt;/a&gt;&lt;/small&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20200818171215.1">&lt;section&gt;
