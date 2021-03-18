@@ -19,6 +19,7 @@
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
 <v t="leo.20200818170328.1"><vh>首頁</vh></v>
+<v t="leo.20210318170940.1"><vh>主題</vh></v>
 <v t="leo.20210318003017.1"><vh>w1</vh></v>
 <v t="leo.20210317215543.1"><vh>w2</vh>
 <v t="leo.20210317233338.1"><vh>主頁</vh></v>
@@ -284,5 +285,9 @@ vertical: body pane on the botton</t>
 &lt;isection&gt;
 &lt;/section&gt;
 </t>
+<t tx="leo.20210318170940.1">&lt;section&gt;
+   &lt;h2&gt;格鬥機器人&lt;/h2&gt; 
+  &lt;h4&gt;動機:看到Battlebots比賽之後，非常有興趣便想做一台屬於自己&lt;/h4&gt;
+&lt;/section&gt;</t>
 </tnodes>
 </leo_file>
