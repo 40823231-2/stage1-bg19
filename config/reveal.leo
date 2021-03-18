@@ -34,6 +34,7 @@
 <v t="leo.20210317234124.1"><vh>主頁</vh></v>
 <v t="leo.20210317234212.1"><vh>車身</vh></v>
 <v t="leo.20210317234134.1"><vh>彈跳板</vh></v>
+<v t="leo.20210318222848.1"><vh>氣瓶</vh></v>
 <v t="leo.20210318000341.1"><vh>第二次組合圖</vh></v>
 </v>
 <v t="leo.20210317215544.1"><vh>w4</vh>
@@ -177,7 +178,7 @@ vertical: body pane on the botton</t>
 
     &lt;link rel="stylesheet" href="dist/reset.css"&gt;
     &lt;link rel="stylesheet" href="dist/reveal.css"&gt;
-    &lt;link rel="stylesheet" href="dist/theme/serif.css" id="theme"&gt;
+    &lt;link rel="stylesheet" href="dist/theme/solarized.css" id="theme"&gt;
 
     &lt;!-- Theme used for syntax highlighting of code --&gt;
     &lt;link rel="stylesheet" href="plugin/highlight/monokai.css" id="highlight-theme"&gt;
@@ -237,10 +238,10 @@ vertical: body pane on the botton</t>
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317233338.1">&lt;section&gt;
-   &lt;h2&gt;w2 繪製第一組圖&lt;/h2&gt; 
+   &lt;h2&gt;W2 繪製第一組圖&lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234124.1">&lt;section&gt;
-   &lt;h2&gt;w3更改零件尺寸、組合零件圖 &lt;/h2&gt; 
+   &lt;h2&gt;W3更改零件尺寸、組合零件圖 &lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234134.1">&lt;section&gt;
    &lt;h2&gt;彈跳板(完成版)&lt;/h2&gt; 
@@ -253,7 +254,7 @@ vertical: body pane on the botton</t>
    
 &lt;/section&gt;</t>
 <t tx="leo.20210317234219.1">&lt;section&gt;
-   &lt;h2&gt;w4 使用coppeliasim 進行模擬測試&lt;/h2&gt; 
+   &lt;h2&gt;W4 使用coppeliasim 進行模擬測試&lt;/h2&gt; 
 &lt;/section&gt;</t>
 <t tx="leo.20210317234241.1">&lt;section&gt;
    &lt;h2&gt;第一次模擬測試&lt;/h2&gt;
@@ -301,6 +302,11 @@ vertical: body pane on the botton</t>
 &lt;/section&gt;</t>
 <t tx="leo.20210318204237.1">&lt;section&gt;
    &lt;h1&gt;謝謝大家&lt;/h1&gt; 
+&lt;/section&gt;</t>
+<t tx="leo.20210318222848.1">&lt;section&gt;
+   &lt;h2&gt;壓縮氣瓶&lt;/h2&gt; 
+   &lt;image src="23.PNG"width="600"hight="300"&gt;
+   
 &lt;/section&gt;</t>
 </tnodes>
 </leo_file>
